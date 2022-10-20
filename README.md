@@ -1,4 +1,4 @@
-# Event Driven Programming
+# Chapter 1 - C# Basic
 
 # CSharpSyntaxExercise
 
